@@ -49,7 +49,7 @@
         </div>
         <div class="col-md-3 col-sm-6">
           <h3><i class="fa fa-css3"></i></span> Etroitement lié à Bootstrap</h3>
-          <div>Ce framework étant étroitement lié à Bootstrap, l'intégration graphique des formulaire et l'affichage des différents états est grandement facilité !</div>
+          <div>Ce framework étant étroitement lié à Bootstrap, l'intégration graphique des formulaires et l'affichage des différents états est grandement facilité !</div>
         </div>
        <div class="col-md-3 col-sm-6">
           <h3><i class="fa fa-road"></i></span> Utilisation des routes</h3>
